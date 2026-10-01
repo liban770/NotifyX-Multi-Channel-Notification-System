@@ -1,0 +1,6 @@
+{
+  "name": "NotifyX — Enterprise Multi-Channel Notification Platform",
+  "description": "Production-grade multi-channel notification platform with provider abstraction, template engine, asynchronous delivery tracking, API keys, and RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
